@@ -6,7 +6,7 @@ import fs from 'fs'
 
 global.owner = [
   ['50584051357', '👑Exar-King👑', true],
-  ['528771298563', '🌻Evee🌻',true],
+  ['528771298563', '🌻Evee🌻', true],
   ['1(829)8871838']
 ] // Cambia los numeros que quieras
 global.mods = [] 
